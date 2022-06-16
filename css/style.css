@@ -1,0 +1,31 @@
+.bby{
+    background-color: pink;
+}
+
+.pxp{
+    background-color: violet;
+    height: 75vh;
+    background-image: url(../img/cejas-home.jpg);
+}
+.cejas{
+    background-color: violet;
+    height: 75vh;
+    background-image: url(../img/permanent_make_up-home.jpg);
+}
+.makeup{
+    background-color: violet;
+    height: 75vh;
+    background-image: url(../img/pestañas-home.jpg);
+}
+.tendencias{
+    background-color: violet;
+    height: 75vh;
+    background-image: url(../img/tendencias-home.jpg);
+}
+
+
+/* contacto */
+.escribinos{
+    width: 50vw;
+}
+
